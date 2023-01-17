@@ -3,3 +3,4 @@ var person = {
     species:"corvax",
     noisy: true
 };
+person.name;
